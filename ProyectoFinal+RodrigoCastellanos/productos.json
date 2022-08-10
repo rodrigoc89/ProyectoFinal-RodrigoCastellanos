@@ -1,0 +1,73 @@
+[
+    {
+        "id": 101,
+        "nombre": "Producto1",
+        "precio": 1400,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 102,
+        "nombre": "Producto2",
+        "precio": 1700,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 103,
+        "nombre": "Producto3",
+        "precio": 2000,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 104,
+        "nombre": "Producto4",
+        "precio": 2300,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 105,
+        "nombre": "Producto5",
+        "precio": 2600,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 106,
+        "nombre": "Producto6",
+        "precio": 2900,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 107,
+        "nombre": "Producto7",
+        "precio": 3200,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 108,
+        "nombre": "Producto8",
+        "precio": 3600,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 109,
+        "nombre": "Producto9",
+        "precio": 4000,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    },
+    {
+        "id": 110,
+        "nombre": "Producto10",
+        "precio": 4500,
+        "imagen": "kja.webp",
+        "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim quae magni mollitia, rem error ut. Incidunt, quibusdam, consequuntur obcaecati aperiam voluptatibus eius eos facere, minima iure harum doloribus! Voluptatem, id."
+    }
+]
+

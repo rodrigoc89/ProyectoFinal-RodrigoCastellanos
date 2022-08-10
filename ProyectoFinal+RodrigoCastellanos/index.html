@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" />
+    <script src="https://kit.fontawesome.com/e2445552bb.js" crossorigin="anonymous"></script>
+    <title>Ecomerce</title>
+</head>
+
+<body>
+
+    <header>
+        <div class="nav container">
+            <i class="bx bx-menu burger-btn" id="burger-icon"></i>
+            <i class="bx bx-x cross-btn" id="cross-icon"></i>
+            <h1><a href="#" class="logo">Mi Tienda</a></h1>
+            <div class="headerSections">
+                <a> <i class="fa-solid fa-clock"></i> Horarios : 0:00 - 0:00</a>
+                <a href="https://www.google.com.ar/maps/@-27.7464809,-64.2543151,15z?hl=es" target="_blank"> <i
+                        class="fa-solid fa-location-dot"></i> Dirección : Avenida Siempreviva 742</a>
+                <i class="fa-solid fa-cart-shopping" id="cart-icon"><span id="contador"></span></i>
+            </div>
+            <div class="cart">
+                <h2 class="cart-title">Tu Carrito</h2>
+                <div class="cart-content"></div>
+                <div class="total">
+                    <div class="total-title">Total</div>
+                    <div class="total-price">$0</div>
+                </div>
+                <button type="button" class="btn-buy">Pagá ahora</button>
+                <i class="bx bx-x" id="close-cart"></i>
+            </div>
+        </div>
+    </header>
+
+
+    <div class="burger-menu" id="burger-menu">
+        <ul>
+            <li>
+                <a> <i class="fa-solid fa-clock"></i> Horarios : 0:00 - 0:00</a>
+            </li>
+            <li><a href="https://www.google.com.ar/maps/@-27.7464809,-64.2543151,15z?hl=es" target="_blank"> <i
+                        class="fa-solid fa-location-dot"></i> Dirección : Avenida Siempreviva 742</a></li>
+        </ul>
+
+
+
+    </div>
+
+
+    <section class="layout">
+        <div class="filtro-marca">
+            <button type="button" id="btn-todos">Todo</button>
+            <button type="button" id="btn-shop1">Catalogo 1</button>
+            <button type="button" id="btn-shop2">Catalogo 2</button>
+            <button type="button" id="btn-shop3">Catalogo 3</button>
+        </div>
+        <div class="productCatalog" id="productCatalog">
+            <div class="shop container" id="shop1">
+
+            </div>
+
+            <div class="shop container" id="shop2">
+
+            </div>
+
+            <div class="shop container" id="shop3">
+
+            </div>
+
+        </div>
+    </section>
+
+    <!-- SHOP -->
+
+
+
+    <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+    <script src="js/main.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/modal.js"></script>
+    <script src="js/librerias.js"></script>
+    <script src="js/filtro.js"></script>
+
+
+    <footer>
+        <div class="container-fluid" id="final">
+            <div class="row">
+                <div class="col" id="izquierda">
+                    <p>Copyright. © 2023 Ecomerce</p>
+                    <p>Todos los derechos reservados</p>
+                </div>
+                <div class="col" id="derecha">
+                    <p>Developer : Rodrigo Joaquín Castellanos</p>
+                    <p>Contacto: <span class="iconify" data-icon="logos:google-gmail"></span>
+                        rodrigojoaquinc89@gmail.com</p>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
